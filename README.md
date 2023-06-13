@@ -3,7 +3,7 @@ Computer vision systems are commonly used to design touch-less human-computer in
 ## If you make use of these datasets please consider citing the publication:
   Fronteddu, G., Porcu, S., Floris, A., & Atzori, L. (2022). A dynamic hand gesture recognition dataset for human-computer interfaces. Computer Networks, 205, 108781.
   
-  bibtex format:
+  BibTex format:
   
   @article{fronteddu2022dynamic,
   title={A dynamic hand gesture recognition dataset for human-computer interfaces},
@@ -18,6 +18,8 @@ Computer vision systems are commonly used to design touch-less human-computer in
 ## The dataset is available here.
 https://ieee-dataport.org/documents/dataset-dynamic-hand-gesture-recognition-systems
 
+## The associated results are presented here:
+https://www.sciencedirect.com/science/article/pii/S1389128622000172
 
 # Instructions: 
 In the following, we discuss the details of the provided datasets.
