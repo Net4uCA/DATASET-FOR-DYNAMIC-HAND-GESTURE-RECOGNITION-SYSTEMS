@@ -15,10 +15,10 @@ Computer vision systems are commonly used to design touch-less human-computer in
   publisher={Elsevier}
   }
 
-## The dataset is available here.
+## Download the dataset
 https://ieee-dataport.org/documents/dataset-dynamic-hand-gesture-recognition-systems
 
-## The associated results are presented here:
+## Our findings are presented in our paper, which can be accessed here
 https://www.sciencedirect.com/science/article/pii/S1389128622000172
 
 # Instructions: 
