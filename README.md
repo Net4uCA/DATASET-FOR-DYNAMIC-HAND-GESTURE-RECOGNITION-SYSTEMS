@@ -4,6 +4,7 @@ Computer vision systems are commonly used to design touch-less human-computer in
   Fronteddu, G., Porcu, S., Floris, A., & Atzori, L. (2022). A dynamic hand gesture recognition dataset for human-computer interfaces. Computer Networks, 205, 108781.
   
   bibtex format:
+  
   @article{fronteddu2022dynamic,
   title={A dynamic hand gesture recognition dataset for human-computer interfaces},
   author={Fronteddu, Graziano and Porcu, Simone and Floris, Alessandro and Atzori, Luigi},
